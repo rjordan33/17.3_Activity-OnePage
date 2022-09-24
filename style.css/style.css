@@ -1,0 +1,41 @@
+.home {
+    padding-top: 10px;
+    text-align: center;
+    background-color: grey;
+    height:30px;
+    width: 100px;
+    display: inline-block;
+   
+}
+.diet {
+    padding-top: 10px;
+    text-align: center;
+    background-color: grey;
+    height:30px;
+    width: 100px;
+    display: inline-block;
+   
+}
+.habitat {
+    padding-top: 10px;
+    text-align: center;
+    background-color: grey;
+    height:30px;
+    width: 100px;
+    display: inline-block;
+   
+}
+
+  .sidebar {
+    height: 500px;
+    width: 29%;
+    background-color: blue;
+    float:left;
+  
+  }
+  .main {
+    height: 500px;
+    width: 70%;
+    background-color: lightblue;
+    float:left;
+  }
